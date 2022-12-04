@@ -15,11 +15,5 @@
      -  Quantum computing
      -  AI  
  
--  I’m currently learning CSE at amrita university,chennai
-
-
-
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sahana3131&" alt="sa"/></p>
-
-              
+-  I’m currently learning CSE at amrita university,chennai            
    
